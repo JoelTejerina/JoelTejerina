@@ -3,6 +3,7 @@
 Hola soy Joel, diseño aplicaciones en lenguaje Java y sus diferentes frameworks Spring, Spring Boot, Hibernate como ORM, JSP, como así también aplicaciones como Maven para las dependencias de un proyecto y Tomcat como servidor de aplicaciones. Del lado del Frontend aplicaciones HTML, CSS y JavaScript. También librerías de Css como Bootstrap. Base de datos Oracle Sql.
 
 Diseñando con el patrón de diseño DAO y patrón de diseño/arquitectura MVC.
+<br>
 Conocimientos sobre arquitectura de microservicios con Docker.
 
 <br/>
