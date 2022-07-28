@@ -33,9 +33,6 @@ Lenguajes y herramientas🛠:
 <a href="https://github.com/JoelTejerina">
   <img align="left" alt="Joel Github" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
 </a>
-<a href="https://maite:catrieltejerina@gmail.com" target="blank"><img align="center"
-         src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
-         alt="azzar" height="30"/></a>
 <a href="https://www.linkedin.com/in/joel-tejerina">
   <img align="left" alt="Dave's Linkdein" width="22px" src="https://cdn3.iconfinder.com/data/icons/inficons/512/linkedin.png" />
 </a>
