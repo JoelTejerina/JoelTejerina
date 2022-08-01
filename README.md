@@ -62,6 +62,6 @@ Lenguajes y herramientas🛠:
   <br>
   <br>
 
-### My ❤️ [repositorio](https://github.com/JoelTejerina?tab=repositories)!
+### Mi ❤️ [repositorio](https://github.com/JoelTejerina?tab=repositories)!
 
 </div>
