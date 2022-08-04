@@ -41,6 +41,9 @@ Lenguajes y herramientas🛠:
 <a href="https://www.linkedin.com/in/joel-tejerina">
   <img align="left" alt="Dave's Linkdein" width="22px" src="https://cdn3.iconfinder.com/data/icons/inficons/512/linkedin.png" />
 </a>
+<a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=CllgCKCCSTTSDFKmWsTBTwtmgWjmZWjMqRSGbqsXrjtLcpSQgNdMvbrzhkdrMcsVnsMsJjdTWXV">
+  <img align="left" alt="Dave's Linkdein" width="22px" src="https://user-images.githubusercontent.com/84384954/182748153-3b8db077-0ba2-4ca4-a511-d140b9c931a0.png" />
+</a>
 
 <br/>
 
