@@ -56,7 +56,7 @@ Lenguajes y herramientas🛠:
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoelTejerina&theme=tokyonight" />
 </a>
 
-### Mi Proyecto ✨:
+### Mis Proyectos ✨:
   
 <a href="https://github.com/JoelTejerina/ChallengerAlkemy_Java">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JoelTejerina&repo=ChallengerAlkemy_Java&theme=tokyonight" />
