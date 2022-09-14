@@ -50,12 +50,11 @@ Lenguajes y herramientas🛠:
 </details>
 
 ---
-
 ### Github Actividad ✔:
 
 <a href="https://github.com/JoelTejerina">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoelTejerina&theme=tokyonight" />
-  </a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoelTejerina&theme=tokyonight" />
+</a>
 
 ### Mi Proyecto ✨:
   
@@ -63,6 +62,9 @@ Lenguajes y herramientas🛠:
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JoelTejerina&repo=ChallengerAlkemy_Java&theme=tokyonight" />
 </a>
 
+<a href="https://github.com/JoelTejerina/Inventario_Backend">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JoelTejerina&repo=Inventario_Backend&theme=tokyonight" />
+</a>
 
 <div align="center">
   
