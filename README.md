@@ -57,6 +57,10 @@ Lenguajes y herramientas🛠:
 </a>
 
 ### Mis Proyectos ✨:
+
+<a href="https://github.com/JoelTejerina/OT296_ONG-Somos-Mas">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JoelTejerina&repo=OT296_ONG-Somos-Mas=tokyonight" />
+</a>
   
 <a href="https://github.com/JoelTejerina/ChallengerAlkemy_Java">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JoelTejerina&repo=ChallengerAlkemy_Java&theme=tokyonight" />
