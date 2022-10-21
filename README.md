@@ -59,12 +59,16 @@ Lenguajes y herramientas🛠:
 ### Mis Proyectos ✨:
 
 <a href="https://github.com/JoelTejerina/OT296_ONG-Somos-Mas">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JoelTejerina&repo=OT296_ONG-Somos-Mas=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JoelTejerina&repo=OT296_ONG-Somos-Mas&theme=tokyonight" />
 </a>
-  
+
+<br>
+
 <a href="https://github.com/JoelTejerina/ChallengerAlkemy_Java">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JoelTejerina&repo=ChallengerAlkemy_Java&theme=tokyonight" />
 </a>
+
+<br>
 
 <a href="https://github.com/JoelTejerina/Inventario_Backend">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JoelTejerina&repo=Inventario_Backend&theme=tokyonight" />
